@@ -26,3 +26,7 @@ scrollReveal.reveal(
 .tag .form-contact`,
   { interval: 100 }
 );
+
+function mensagemConstrucao() {
+	alert("Em desenvolvimento");
+}
